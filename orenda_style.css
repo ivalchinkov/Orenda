@@ -1,0 +1,99 @@
+h1{
+    text-align: center;
+    color:  #666666;
+}
+img{
+    width: 40%;
+    height: 150px;
+    display: block;
+    margin: auto;
+}
+
+#main-container{
+    text-align: center;
+}
+
+body{
+    background: #ccffcc;
+    font-size: 22px;
+}
+
+a {
+    display: inline;
+    text-decoration: none;
+    list-style: none;
+    padding: 5px;
+}
+
+a:hover{
+    text-decoration: underline;
+    font-weight: bolder;
+    background:  #269900;
+    margin: 0 auto;
+}
+
+li{
+    display: inline;
+    list-style: none;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+#back_btn{
+    text-align: left;
+}
+
+.nav-item {
+    display: block;
+    padding-top: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+.nav-link{
+    float: right;
+}
+
+#article{
+    font-family: "Aclonica";
+}
+
+#reg_field{
+    width: 45%;
+    text-align: center;
+    margin: auto;
+}
+
+.search-bar {
+    position: absolute;
+    height: 48px;
+    background: #fff;
+    border-radius: 2px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+}
+
+
+.form-control{
+    position: absolute;
+}
+
+.input-group {
+    position: absolute;
+}
+
+.list-group-item{
+    position: absolute;
+    margin-left: 2%;
+    margin-top: 1%;
+    top: 34px;
+}
+
+#search.form-control{
+    position: absolute;
+
+}
