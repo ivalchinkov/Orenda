@@ -7,7 +7,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-    <title>Био ферма Оренда</title>
+    <title>MIMI ферма Оренда</title>
     <link rel="stylesheet" type = "text/css" href = "orenda_style.css">
     <link rel = "stylesheet"  type = "text/css" href="parallax.css">
     <div id = "logo">
@@ -16,7 +16,7 @@
    </head>
 <body>
     <div id = "main-container">
-        <h1>Био ферма Оренда</h1>
+        <h1>Mimi ферма Оренда</h1>
 
         <nav class="navbar navbar-expand-md bg-dark navbar-dark">
             <a class="navbar-brand" href = "#">Начало</a>
